@@ -1,0 +1,15 @@
+
+.container-add-task{
+    display: flex;
+    justify-content: center;
+    flex-direction: column;
+}
+
+.container-form{
+    margin-top: 40px;
+}
+
+
+.container-input{
+    width: 390px;
+}
